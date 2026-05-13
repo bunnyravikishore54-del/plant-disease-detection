@@ -1,7 +1,5 @@
 fastapi
 uvicorn[standard]
 python-multipart
-numpy
-gdown
 Pillow
-tensorflow-cpu==2.15.0
+anthropic
