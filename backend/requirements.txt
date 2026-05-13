@@ -3,5 +3,5 @@ uvicorn[standard]
 python-multipart
 numpy
 gdown
-tensorflow-cpu==2.13.0
-Pillow==9.3.0
+Pillow
+tensorflow-cpu==2.15.0
